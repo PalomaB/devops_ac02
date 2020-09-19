@@ -1,2 +1,13 @@
 PALOMA BALDARENA - 1902910
 aC_02
+
+PRINT 1 Criado Diretório no git  
+PRINT 2 Criada Pasta no computador
+PRINT 3 Realizada clonagem do diretório
+PRINT 4 LS
+PRINT 5 GIT FETCH
+PRINT 6 GIT pull
+PRINT 7 CHECKOUT
+PRINT 8 ADD
+PRINT 9 COMMIT
+PRINT 10 PUSH
